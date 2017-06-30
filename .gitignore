@@ -1,1 +1,5 @@
 /config/ignoruj.json
+/cache/*
+!/cache/.gitkeep
+.netbeans.xml
+###
